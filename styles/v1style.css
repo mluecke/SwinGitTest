@@ -1,0 +1,149 @@
+body {
+background-image: url('../images/v1layout/bg.png');
+z-index:-1;
+}
+
+html{
+font-family:Arial;
+font-size:13px;
+color:#45423f;
+font-weight:lighter;
+}
+
+a:link{color:#45423f;text-decoration:none;}
+a:visited{color:#45423f;text-decoration:none;}
+a:hover{color:#5f6a80;text-decoration:none;}
+a:active{color:#5f6a80;text-decoration:none;}
+
+
+h1{
+font-size:18px;
+}
+
+h2{
+font-size:16px;
+color:#5f6a80
+}
+
+
+hr {
+color:#45423f;
+}
+	
+#outline {
+background-color:#dad4c9;
+width: 930px;
+z-index:0;
+margin-left: auto;
+margin-right: auto;
+margin-top: 25px;
+margin-bottom:25px;
+padding:20px;
+}
+
+#restricted{
+margin-left:-842px;
+margin-bottom:34px;
+border-width:0px;
+}
+
+.leftcontent{
+float:left;
+margin-right: 10px;
+}
+
+#inside {
+background-color:#c3c1bc;
+width: 918px;
+z-index:0;
+padding:3px;
+}
+
+
+#insider {
+background-color:#f1efea;
+width: 884px;
+z-index:0;
+border-width: 1px;
+border-style: solid;
+border-color: #e1dfda;
+padding:16px;
+}
+
+#topcontent {
+margin-left: 11px;
+margin-bottom:-23px;
+z-index:-1;
+}
+
+#content {
+background-image: url('../images/v1layout/content.png');
+background-repeat:repeat-y;
+margin-left: 11px;
+margin-top: 6px;
+padding:25px;
+}
+
+#bottomcontent {
+margin-left:11px;
+}
+
+
+#homepage{
+margin-left:143px;
+margin-bottom:-31px;
+margin-top:15px;
+}
+
+#about{
+margin-left:269px;
+margin-bottom:-31px;
+}
+
+#portfolio{
+margin-left:395px;
+margin-bottom:-31px;
+}
+
+#development{
+margin-left:521px;
+margin-bottom:-31px;
+}
+
+#contact{
+margin-left:647px;
+margin-bottom:-31px;
+}
+
+#header {
+margin-left:11px;
+margin-top:-141px;
+margin-bottom:5px;
+float:left;
+}
+
+#topspotlight {
+margin-left:520px;
+margin-top:-8px;
+float:right;
+}
+
+#spotlightimage {
+margin-left:16px;
+border-width:1px;
+border-style:solid;
+border-color:black;
+}
+
+#spotlight {
+background-image: url('../images/v1layout/spotlight.png');
+background-repeat:repeat-y;
+margin-left: 526px;
+}
+
+#bottomspotlight {
+margin-left: 520px;
+margin-top:-2px;
+margin-bottom:15px;
+float:right;
+}
